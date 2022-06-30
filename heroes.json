@@ -2,20 +2,20 @@
   "heroes": [
     {
       "id": 1,
-      "name": "Первый герой",
-      "description": "Первый герой в рейтинге!",
+      "name": "The first one",
+      "description": "The first hero in the ranking!",
       "element": "fire"
     },
     {
       "id": 2,
-      "name": "Неизвестный герой",
-      "description": "Скрывающийся в тени",
+      "name": "Unknown hero",
+      "description": "Lurking in the shadows",
       "element": "wind"
     },
     {
       "id": 3,
-      "name": "Морской герой",
-      "description": "Как аквамен, но не из DC",
+      "name": "Aquahero",
+      "description": "Like Aquaman, but not from DC",
       "element": "water"
     }
   ],
@@ -23,31 +23,31 @@
     {
       "id": "all",
       "name": "all",
-      "label": "Все",
+      "label": "all",
       "className": "btn-outline-dark"
     },
     {
-        "id": "fire",
+      "id": "fire",
       "name": "fire",
-      "label": "Огонь",
+      "label": "Fire",
       "className": "btn-danger"
     },
     {
-        "id": "water",
+      "id": "water",
       "name": "water",
-      "label": "Вода",
+      "label": "Water",
       "className": "btn-primary"
     },
     {
-        "id": "wind",
+      "id": "wind",
       "name": "wind",
-      "label": "Ветер",
+      "label": "Wind",
       "className": "btn-success"
     },
     {
-        "id": "earth",
+      "id": "earth",
       "name": "earth",
-      "label": "Земля",
+      "label": "Earth",
       "className": "btn-secondary"
     }
   ]
